@@ -1,6 +1,6 @@
 # Hello-Microverse
 
-> ![screenshot](emoji.jpg)
+> ![screenshot](happyFace.jpg)
 
 # Descrption
 
