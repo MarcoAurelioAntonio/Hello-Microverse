@@ -1,0 +1,27 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "> One h1 Tittle about the project.\r > Create branches with different base branches.\r > Understand the concept of version control.\r > Follow GitHub flow.\r > Open pull requests in GitHub.\r > Write descriptive, easy to understand commit messages.\r > Write short, detailed, easy to understand descriptions of pull requests.\r > Write a descriptive and easy to understand README in business English for every project submitted.\r > Demonstrate an ability to submit a project for code review..\r ![screenshot](./app_screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoAurelioAntonio/Hello-Microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoAurelioAntonio/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/MarcoAurelioAntonio/Hello-Microverse#readme",
+  "devDependencies": {
+    "hint": "^7.0.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
